@@ -1,0 +1,8 @@
+.venv/
+Fruit And Vegetable Diseases Dataset/
+sapp.py
+scan_data.json
+__pycache__/
+*.pyc
+.DS_Store
+efficientnetv2-model.ipynb
