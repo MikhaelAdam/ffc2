@@ -95,7 +95,7 @@ if "prediction" not in st.session_state:
 
 # ---------- Page Config ----------
 st.set_page_config(page_title="Fruit & Veg Inventory Scanner", layout="wide")
-st.title("🥬 Fruit & Vegetable Inventory Scanner")
+st.title("🥬 Super Fresh AI")
 
 # ---------- Tabs ----------
 tab1, tab2, tab3 = st.tabs(["Scanner", "Result", "Data"])
